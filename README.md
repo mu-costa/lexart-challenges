@@ -29,8 +29,8 @@ Create an algorithm that traverses a one-dimensional array containing letters an
 
 - [x] **Obtain an array containing only letters.**
 
-- [ ] **Obtain an array containing only numbers.**
+- [x] **Obtain an array containing only numbers.**
 
-- [ ] **Obtain the largest number from the previous array.**
+- [x] **Obtain the largest number from the previous array.**
 
 Upload it to a public Github repository and send us to [join-us@lexartlabs.com](mailto:join-us@lexartlabs.com) with the subject: “<Name candidate> Programing challenge - Support Engineer” 
