@@ -27,7 +27,7 @@ Export the database and upload it to a public Github repository and send us to [
 
 Create an algorithm that traverses a one-dimensional array containing letters and numbers: ["a", 10, "b", "hello", 122, 15].
 
-- [ ] **Obtain an array containing only letters.**
+- [x] **Obtain an array containing only letters.**
 
 - [ ] **Obtain an array containing only numbers.**
 
